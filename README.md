@@ -1,4 +1,4 @@
-# Hola! Soy [Wertoxdd]!
+# Hola! Soy Wertoxdd!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Aprendiendo+Python+y+Java;Apasionado+por+las+Redes+y+Web)
 
 ### Aquí puedes ver mi actividad en GitHub:
