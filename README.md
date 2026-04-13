@@ -3,15 +3,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">Soy estudiante de 1º de Ingeniería Informática en la Escuela de Ingeniería de Bilbao (UPV/EHU). Actualmente enfocado en asentar bases sólidas de programación y entender cómo funciona la infraestructura de la red.</p>
 
 ###
