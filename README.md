@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hola! Soy [Wertoxdd]!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Aprendiendo+Python+y+Java;Apasionado+por+las+Redes+y+Web)
 
+### Aquí puedes ver mi actividad en GitHub:
+
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 <!--
 **Wertoxdd/Wertoxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
