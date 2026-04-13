@@ -16,6 +16,6 @@
 
 ###
 
-<p align="left">🔭 Actualmente trabajando en: Proyectos de clase  y scripts de automatización con Java.<br><br>🌱 Aprendiendo: Estructuras de datos y despliegue de servidores web básicos.<br><br>Objetivo 2026: Dominar la programación orientada a objetos y colaborar en mi primer proyecto en GitHub.</p>
+<p align="left"> Actualmente trabajando en: Proyectos de clase  y scripts de automatización con Java.<br><br> Aprendiendo: Estructuras de datos y despliegue de servidores web básicos.<br><br>Objetivo 2026: Dominar la programación orientada a objetos y colaborar en mi primer proyecto en GitHub.</p>
 
 ###
