@@ -1,21 +1,21 @@
-# Hola! Soy Wertoxdd!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Aprendiendo+Python+y+Java;Apasionado+por+las+Redes+y+Web)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Wertoxdd&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-### Aquí puedes ver mi actividad en GitHub:
+###
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-<!--
-**Wertoxdd/Wertoxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wertoxdd/Wertoxdd/output/pacman-contribution-graph.svg">
+</picture>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Soy estudiante de 1º de Ingeniería Informática en la Escuela de Ingeniería de Bilbao (UPV/EHU). Actualmente enfocado en asentar bases sólidas de programación y entender cómo funciona la infraestructura de la red.</p>
+
+###
+
+<p align="left">🔭 Actualmente trabajando en: Proyectos de clase  y scripts de automatización con Java.<br><br>🌱 Aprendiendo: Estructuras de datos y despliegue de servidores web básicos.<br><br>Objetivo 2026: Dominar la programación orientada a objetos y colaborar en mi primer proyecto en GitHub.</p>
+
+###
